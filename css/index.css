@@ -6,10 +6,10 @@
 }
 
 .logo-title {
-    padding: 30px 10px;
+    padding: 30px 10px 0;
 }
 
-.logo-title, .logo-title * {
+.logo-title, .logo-title *, .logo-slogan {
     font-family: 'Comfortaa', cursive;
     color: #0c5ab1;
 }
