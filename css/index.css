@@ -1,3 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Jura');
+
+* {
+    font-family: 'Jura', sans-serif;
+    line-height: 1.4;
+}
+
+.logo-title {
+    padding: 30px 10px;
+}
+
+.logo-title, .logo-title * {
+    font-family: 'Comfortaa', cursive;
+    color: #0c5ab1;
+}
+
+.logo-color-1 {
+    color: #0c8806;
+}
+
 .center {
     text-align: center;
+}
+
+.body {
+    max-width: 1000px;
+    margin: 10px auto;
 }
